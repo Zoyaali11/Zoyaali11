@@ -7,8 +7,12 @@ Computer Science graduate from Pakistan 🇵🇰 who loves **AI, machine learnin
 > 🟢 **Open to work:** looking for my first machine learning or data analysis role. Remote or on-site.
 
 🔗**LET CONNECT**
+
+
 📧 **Email:** 
 zoya56799@gmail.com 
+
+
 💼 **LinkedIn:** 
 https://www.linkedin.com/in/zoya-ali-93b355285
 
