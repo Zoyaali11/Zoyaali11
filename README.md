@@ -6,9 +6,10 @@ Computer Science graduate from Pakistan 🇵🇰 who loves **AI, machine learnin
 
 > 🟢 **Open to work:** looking for my first machine learning or data analysis role. Remote or on-site.
 
+🔗**LET CONNECT**
 📧 **Email:** 
 zoya56799@gmail.com 
-💼 **LinkedIn:** *
+💼 **LinkedIn:** 
 https://www.linkedin.com/in/zoya-ali-93b355285
 
 ---
@@ -18,7 +19,6 @@ https://www.linkedin.com/in/zoya-ali-93b355285
 - 🎓 Bachelor's degree in Computer Science
 - 🧪 Machine learning internship: 3 projects covering regression, deep learning and imbalanced data
 - 🚚 Final year project: an AI fleet tracking and dispatch system (TapTrack)
-- 🗣️ I speak Urdu and English
 - 🌱 Learning right now: deep learning, model evaluation and data analysis
 
 ---
